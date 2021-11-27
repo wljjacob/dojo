@@ -1,3 +1,3 @@
-# kendo
+# dojo
 
 Practice work spapce.
